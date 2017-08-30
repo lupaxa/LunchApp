@@ -1,0 +1,6 @@
+{
+  "port": 3000 ,
+  "mongoose" :  {
+    "uri" : "mongodb://lupaxa:l285301476@ds131583.mlab.com:31583/dishes"
+  }
+}
